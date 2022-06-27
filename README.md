@@ -6,13 +6,11 @@
 Here are some ideas to get you started:
 
 - programmer Python JavaScript and.....
+# My Social Profiles
+<p align="center">
+<a href="https://t.me/azeezmazin"><img alt="Telegram" src="https://img.shields.io/badge/azeezmazin-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+</p>
 
-### telegram @azeezmazin
-- hi any coloration
-- donate me dm telegram @azeezmazin 😇
-- bot creates
-
-`telegram` https://t.me/azeezmazin
-
+**Give me `redeem code` dm telegram** 
 
 
