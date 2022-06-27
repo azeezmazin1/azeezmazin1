@@ -6,6 +6,9 @@
 # My Social Profiles
 <p align="center">
 <a href="https://t.me/azeezmazin"><img alt="Telegram" src="https://img.shields.io/badge/azeezmazin-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+
+<p align="center">
+<a href="https://instagram.com/azeezmazin_2.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azeezmazin_2.0" height="30" width="40" /></a>
 </p>
 
 ###  Support / Updates Channel
