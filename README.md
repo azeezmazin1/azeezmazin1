@@ -1,6 +1,7 @@
-### Hi thanks for checking my github profile repo😇
+## <h3 align="center">Hi 👋🏻 welcome azeezmazin github profile ☺️</h3>
 
-!--
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=azeezmazin1&label=Profile%20views&color=0e75b6&style=flat" alt="azeezmazin1" /> </p>
 
 - programmer Python JavaScript and.....
 # My Social Profiles
@@ -10,6 +11,8 @@
 <p align="center">
 <a href="https://instagram.com/azeezmazin_2.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azeezmazin_2.0" height="30" width="40" /></a>
 </p>
+
+#
 
 ###  Support / Updates Channel
 
@@ -23,7 +26,7 @@
 
 **owner at** `azeezmazin `
 #
-
+Thank you for visiting... 👋🏻🙏☺️
 #
 
 
